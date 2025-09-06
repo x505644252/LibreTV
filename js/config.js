@@ -24,7 +24,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     dtzy1: {
         api: 'https://api.okzyw.net/api.php/provide/vod',
-        name: '电影天堂资源',
+        name: 'ok资源',
       },
     ttzy2: {
         api: 'https://www.bugutv.org',
