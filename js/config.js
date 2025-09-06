@@ -23,7 +23,7 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     dtzy1: {
-        api: 'http://xhztv.top/4k.json',
+        api: 'https://api.okzyw.net/api.php/provide/vod',
         name: '电影天堂资源',
       },
     ttzy2: {
